@@ -8,6 +8,9 @@ if you have anything you want to say to me you can find my [contacts here](https
 ## Screenshot
 ![](ss.png)
 
+## Wallpaper
+You can download the wallpaper from [here](wallpaper.jpg) or [imgur](https://imgur.com/a/4fif39V)
+
 ## Installing & Compiling
 
 </div>
