@@ -17,7 +17,7 @@ You can download the wallpaper from [here](wallpaper.jpg) or [imgur](https://img
 
 - First update the database:
 ```
-sudo pacman -Syy
+sudo pacman -Syu
 ```
 
 - Then you will need some dependencies if you don't have them already:
