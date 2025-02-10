@@ -17,6 +17,7 @@ Prequisits
 sudo pacman -Syu xorg-server  xorg-xsetroot
 ```
 
+Clone & Install
 ```bash
 git clone https://github.com/Kitchvx/dwm.git
 cd dwm
