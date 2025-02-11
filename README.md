@@ -17,9 +17,14 @@ Prequisits
 sudo pacman -Syu xorg-server  xorg-xsetroot
 ```
 
+Don't forget to chown! (change filepath if you have set it to another location
+```bash
+sudo chown -R $USER:$USER ~/suckless/dwm
+```
+
 Clone & Install
 ```bash
-git clone https://github.com/Kitchvx/dwm.git
+git clone https://github.com/Kitchvx/dwm.git ~/suckless/dwm
 cd dwm
 sudo make clean install
 ```
